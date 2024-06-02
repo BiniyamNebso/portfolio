@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Netflix",
+    "imageSrc": "projects/photo.png",
+    "description": "This is a project made to learn the latest languages by building the website.",
+    "skills": ["javascript", "HTML", "CSS"],
+    "demo": "https://biniyamnebso.github.io/Netflix--Clone-/",
+    "source": "https://github.com/BiniyamNebso/Netflix--Clone-"
+  },
+  {
+    "title": "Amazon",
+    "imageSrc": "projects/photoa.png",
+    "description": "This is a project made to learn the latest languages by building the website.",
+    "skills": ["javascript", "HTML", "CSS"],
+    "demo": "https://bini-amazon-clone.netlify.app",
+    "source": "https://github.com/BiniyamNebso/amazon-clone"
+  },
+  {
+    "title": "Finance Tracker",
+    "imageSrc": "projects/image_original.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["php"],
+    "demo": "https://finance-tracker-v1.azurewebsites.net/",
+    "source": "https://github.com/abelshebela"
+  }
+]

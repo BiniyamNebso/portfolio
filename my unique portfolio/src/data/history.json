@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Full stack developer",
+    "organisation": "Nedamco Africa",
+    "startDate": "Feb, 2023",
+    "endDate": "dec, 2023",
+    "experiences": ["Worked on lots of projects during my time at work", "from developing websites from scratch to CI/CD deployment"],
+    "imageSrc": "history/nedamco.png"
+  },
+  {
+    "role": "Devops engineer",
+    "organisation": "Nedamco Africa",
+    "startDate": "Feb, 2023",
+    "endDate": "dec, 2023",
+    "experiences": ["Worked on Microsoft Azure and AWS", "succeessfully deployed webstes on microsoft azure and on aws with automation /CI/CD"],
+    "imageSrc": "history/nedamco.png"
+  },
+  {
+    "role": "Clonning diffrent websites",
+    "organisation": "personal",
+    "experiences": [
+      "worked on cloning diffrent websites like streaming websites and E commers websites",
+      "worked on full deployemet and automation "
+    ],
+    "imageSrc": "history/images.png"
+  }
+]
