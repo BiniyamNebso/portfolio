@@ -17,7 +17,7 @@ export const Hero = () => {
           and multifaceted operations.
            Reach out if you'd like to learn more!
         </p>
-        
+       
       </div>
       <img
         src={getImageUrl("hero/photo.png")}
